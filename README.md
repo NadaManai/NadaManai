@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nada Manai</h1>
 <h3 align="center">A passionate Data Science Student</h3>
+<img align ="right" alt=Data Science width=400 src="https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
 - 📫 How to reach me **nada.manai@esprit.tn**
 
