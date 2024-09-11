@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data Science Student</h3>
 <img align ="right" alt=Data Science width=270 src="https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
-- 📫 How to reach me **nada.manai@esprit.tn**
+- 📫 How to reach me **nada.maanai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hj4gfWOTmhQzLaREIcEdrS5URThIpIpV/view?usp=sharing)
+- 📄 Know about my experiences [hhttps://drive.google.com/drive/folders/1X5--LPXll8LzIBMPXv9KstxDv2mqrsRr?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
