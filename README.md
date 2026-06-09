@@ -36,13 +36,19 @@
 
 ## 🧠 Tech Stack
 
+## 🧠 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mongodb,mysql,postgresql,sqlite,neo4j,django,flask,docker,git,postman,anaconda" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
