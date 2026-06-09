@@ -12,7 +12,7 @@
 - 🎓 Data Science & AI enthusiast  
 - 🤖 Machine Learning • Deep Learning • NLP • Generative AI  
 - 🔎 RAG systems & LLM applications  
-- 📊 Building data-driven intelligent systems  
+- 📊 Building intelligent data-driven systems  
 
 ---
 
@@ -37,42 +37,20 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
----
-
-### 📊 Data Analysis & Visualization
+### 📊 Data Analysis
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,plotly,tableau,powerbi" />
 </p>
-
-- 📊 Power BI  
-- 📈 Tableau  
-
----
 
 ### 🧠 NLP / LLMs
 <p>
   <img src="https://skillicons.dev/icons?i=anaconda" />
 </p>
 
-- 🤖 LangChain  
-- 🔗 Neo4j  
-- 🧾 Hugging Face Transformers  
-- 💬 spaCy • NLTK  
-- 🔎 RAG Systems  
-
----
-
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,neo4j" />
 </p>
-
-- 🐘 PostgreSQL  
-- 🗃️ SQL  
-- 🍃 MongoDB  
-- 🧠 Neo4j  
-
----
 
 ### ⚙️ Tools & Dev
 <p>
