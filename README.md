@@ -30,10 +30,15 @@
 
 ---
 
-## 🧠
+## Tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,plotly,tableau,powerbi,mongodb,mysql,postgresql,sqlite,neo4j,django,flask,docker,git,postman,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mongodb,mysql,postgresql,sqlite,neo4j,django,flask,docker,git,postman,anaconda" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40"/>
 </p>
 
 ---
