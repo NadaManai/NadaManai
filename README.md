@@ -30,31 +30,10 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠
 
-### 🤖 AI / ML / DL
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-### 📊 Data Analysis
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,plotly,tableau,powerbi" />
-</p>
-
-### 🧠 NLP / LLMs
-<p>
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,neo4j" />
-</p>
-
-### ⚙️ Tools & Dev
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,plotly,tableau,powerbi,mongodb,mysql,postgresql,sqlite,neo4j,django,flask,docker,git,postman,anaconda" />
 </p>
 
 ---
