@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nada.maanai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1X5--LPXll8LzIBMPXv9KstxDv2mqrsRr](https://drive.google.com/drive/u/2/folders/1X5--LPXll8LzIBMPXv9KstxDv2mqrsRr)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Lrtep4WYgXrTrien63TB8_QIP48_FfVz/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
