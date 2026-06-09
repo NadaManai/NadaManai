@@ -33,7 +33,7 @@
 ## 🧠
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,plotly,tableau,powerbi,mongodb,mysql,postgresql,sqlite,neo4j,django,flask,docker,git,postman,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,plotly,tableau,powerbi,mongodb,mysql,postgresql,sqlite,neo4j,django,flask,docker,git,postman,anaconda" />
 </p>
 
 ---
