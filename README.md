@@ -3,7 +3,7 @@
 <h3 align="center">Data Science & AI Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;NLP+%26+LLM+Explorer;RAG+Projects+Builder&center=true&width=500&height=45
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+%26+AI+Enthusiast;Deep+Learning+Learner;NLP+%26+LLM+Explorer;RAG+Projects+Builder&center=true&width=500&height=45" />
 </p>
 
 <p align="center">
