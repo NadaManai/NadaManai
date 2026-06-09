@@ -3,7 +3,7 @@
 <h3 align="center">Data Science & AI Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Deep+Learning+Explorer;NLP+%26+LLM+Builder;RAG+Systems+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;NLP+%26+LLM+Explorer;RAG+Projects+Builder&center=true&width=500&height=45>
 </p>
 
 <p align="center">
@@ -33,8 +33,6 @@
 </p>
 
 ---
-
-## 🧠 Tech Stack
 
 ## 🧠 Tech Stack
 
