@@ -3,6 +3,10 @@
 <h3 align="center">Data Science & AI Enthusiast 🤖</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Deep+Learning+Explorer;NLP+%26+LLM+Builder;RAG+Systems+Developer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
   <img src="https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif" width="300"/>
 </p>
 
@@ -12,7 +16,7 @@
 - 🎓 Data Science & AI enthusiast  
 - 🤖 Machine Learning • Deep Learning • NLP • Generative AI  
 - 🔎 RAG systems & LLM applications  
-- 📊 Building intelligent data-driven systems  
+- 📊 Building end-to-end intelligent systems  
 
 ---
 
@@ -30,7 +34,7 @@
 
 ---
 
-## Tech stack
+## 🧠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mongodb,mysql,postgresql,sqlite,neo4j,django,flask,docker,git,postman,anaconda" />
@@ -43,12 +47,20 @@
 
 ---
 
+## 🚀 Featured Work
+- 🤖 RAG-based chatbot using LLMs  
+- 📊 Sentiment analysis system with real-time insights  
+- 🧠 NLP pipeline for article understanding  
+- 🔎 Knowledge-based AI retrieval system  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadamanai&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadamanai&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadamanai" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadamanai&hide_border=true" />
 </p>
